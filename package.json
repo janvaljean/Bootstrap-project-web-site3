@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap-project-web-site3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass -watch scss/ -o css/ --output-style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janvaljean/Bootstrap-project-web-site3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janvaljean/Bootstrap-project-web-site3/issues"
+  },
+  "homepage": "https://github.com/janvaljean/Bootstrap-project-web-site3#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "node-sass": "^8.0.0"
+  }
+}
